@@ -38,8 +38,9 @@ ESP32 Setup (transmitter)
 
 Building receiver
 > In receiver directory, run
-    mkdir build
-    cd build
-    cmake ..
-    make
-    ./esp32_scope
+```mkdir build
+cd build
+cmake ..
+make
+./esp32_scope
+```
